@@ -12,7 +12,7 @@ Time | Activity | Notes
 1:00 | Arrive at Waihōanga Lodge | It shouldn't take long to unpack
 1:30 | Program and course overview (David) | Link to syllabus (to be added)
 2:00 | GISC 421 Assessments overview (David)
-2:30 | Introduction to group mapping exercise (Andy R) | Link to documents
+2:30 | Introduction to group mapping exercise (Andy R) | Link to documents (to be added)
 3:00 | Initial work on group mapping exercise
 4:30 | Student research presentations: Jason Hansen &amp; Hayden Rickard
 5:30 | Work on group mapping assessment
