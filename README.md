@@ -4,7 +4,7 @@ This is the online presence for VUW GISC 421 GIS Applications and Impact in T1 2
 The schedule for the course will be posted here, along with links to lecture materials, etc. Some materials may only be available through [Blackboard](https://blackboard.vuw.ac.nz/), which you should check regularly.
 
 ## Field trip 26-28 Feb
-An outline of the field trip is posted [here](field-trip/overview-and-requirements.md), along with the [timetable](field-trip/timetable.md) (not yet finalised).
+An outline of the three day (two night) residential field trip is posted [here](field-trip/overview-and-requirements.md), along with the [timetable](field-trip/timetable.md) (not yet finalised).
 
 ## Schedule of guest lectures and meetings
 These are in the Buchanan Room at 12PM on Wednesdays, unless otherwise noted.

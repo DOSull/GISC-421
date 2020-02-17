@@ -5,6 +5,8 @@ During the field trip, we will intersperse lectures, discussions and getting to 
 
 **The field trip details are below. Please read them carefully.**
 
+**This is a residential field trip that will involve two nights away from Wellington.**
+
 We will provide a detailed schedule for the three days a little closer to the time. For now, please fill out and return the *Personal Disclosure* form which has been sent to you to [David O'Sullivan](mailto:david.osullivan@vuw.ac.nz) as soon as possible (if you lost that email, the form is also available to download from [here](personal-disclosure-form.doc?raw=true)).
 
 If you have any questions, please email [David O'Sullivan](mailto:david.osullivan@vuw.ac.nz), the field trip coordinator.
