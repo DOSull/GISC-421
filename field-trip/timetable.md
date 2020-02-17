@@ -6,15 +6,15 @@ Times are approximate, but it's a tight schedule and we will endeavour to stick 
 ## Wednesday, 26 February 2020
 Time | Activity | Notes
 --- | --- | ---
-9:00 | Assemble Cotton Plaza Kelburn Campus | Be there on time, and don't forget to bring a packed lunch. Other essentials listed in [this document](overview-and-requirements.md)
-9:30 | Depart on field Trip |
+9:00 | Assemble **Cotton Plaza** Kelburn Campus | Be there on time, and don't forget to bring a packed lunch. Other essentials listed in [this document](overview-and-requirements.md)
+9:30 | **Depart** on field Trip |
 11:00 | Proceed on to Otaki Forks, for sensor deployment | We will have lunch in the field, provided the weather is OK
 1:00 | Arrive at Waihōanga Lodge | It shouldn't take long to unpack
 1:30 | Program and course overview (David) | Link to syllabus (to be added)
 2:00 | GISC 421 Assessments overview (David)
-2:30 | Introduction to group mapping exercise (Andy R) | Link to documents (to be added)
-3:00 | Initial work on group mapping exercise
-4:30 | Student research presentations: Jason Hansen &amp; Hayden Rickard
+2:30 | Introduction and getting started on group mapping exercise (Andy R) | Link to documents (to be added)
+3:45 | Developing research ideas (David) | [Slides](https://southosullivan.com/gisc421/ComingUpWithAResearchTopic/#/)
+4:30 | Student research:<br />Jason Hansen<br /> Hayden Rickard | Links to slides (to follow)<br />...<br />...
 5:30 | Work on group mapping assessment
 6:30 | Dinner | Takeaway - Indian or Chinese, probably!
 7:30 | Free time or continue work on group mapping exercise
@@ -29,8 +29,7 @@ Time | Activity | Notes
 12:30 | Sensor data download (Andy R)
 1:00 | Lunch
 2:00 | Work on group mapping exercise
-3:00 | Developing research ideas (David) | [Slides](https://southosullivan.com/gisc421/ComingUpWithAResearchTopic/#/)
-4:00 | Staff research presentations:<br />David O'Sullivan<br />Mirjam Schindler<br /> Oliver Wigmore | Links to slides<br />[David's slides](https://southosullivan.com/gisc421/DavidsResearch/#/)
+3:30 | Staff research:<br />David O'Sullivan<br />Mirjam Schindler<br /> Oliver Wigmore | Links to slides (to follow)<br />[David's slides](https://southosullivan.com/gisc421/DavidsResearch/#/)<br />...<br />...
 5:30 | Work on group mapping exercise
 6:30 | Dinner | Weather permitting, fish and chips on Otaki Beach
 7:30 | Free time or continue work on assessments (mapping or data analysis)
