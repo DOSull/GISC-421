@@ -11,6 +11,7 @@ These are in the Buchanan Room at 12PM on Wednesdays, unless otherwise noted.
 
 Date | Speaker | Notes
 --- | --- | ---
+26-28 Feb | Otaki field trip | [Detailed timetable](field-trip/timetable.md)
 4 March |
 11 March | Elliott Crosby ([Seequent](https://www.seequent.com/))
 18 March | Ethics and GIS (David)
