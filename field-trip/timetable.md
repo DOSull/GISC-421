@@ -24,13 +24,13 @@ Time | Activity | Notes
 --- | --- | ---
 7:00 | Breakfast
 8:00 | Work on group mapping exercise
-9:00 | Lecture on UAV theory and methods (Andrew M)
-10:00 | UAV data collection exercise
-12;30 | Sensor data download (Andy R)
+9:00 | Lecture on UAV theory and methods (Andrew M) | Link to slides (to be added)
+10:00 | UAV data collection exercise (Andrew M and Andy R)
+12:30 | Sensor data download (Andy R)
 1:00 | Lunch
 2:00 | Work on group mapping exercise
-3:00 | Developing research ideas (David)
-4:00 | Staff research presentations: Mirjam Schindler &amp; Oliver Wigmore
+3:00 | Developing research ideas (David) | [Slides](https://southosullivan.com/gisc421/ComingUpWithAResearchTopic/#/)
+4:00 | Staff research presentations:<br />David O'Sullivan<br />Mirjam Schindler<br /> Oliver Wigmore | Links to slides<br />[David's slides](https://southosullivan.com/gisc421/DavidsResearch/#/)
 5:30 | Work on group mapping exercise
 6:30 | Dinner | Weather permitting, fish and chips on Otaki Beach
 7:30 | Free time or continue work on assessments (mapping or data analysis)
