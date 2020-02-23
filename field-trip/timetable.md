@@ -13,9 +13,9 @@ Time | Activity | Notes
 1:30 | Program and course overview (David) | Link to syllabus (to be added)
 2:00 | GISC 421 Assessments overview (David)
 2:30 | Introduction and getting started on group mapping exercise (Andy R) | Link to documents (to be added)
-3:45 | Developing research ideas (David) | [Slides](https://southosullivan.com/gisc421/ComingUpWithAResearchTopic/#/)
-4:30 | Student research:<br />Jason Hansen<br /> Hayden Rickard | Links to slides (to follow)<br />...<br />...
-5:30 | Work on group mapping assessment
+4:00 | Developing research ideas (David) | [Slides](https://southosullivan.com/gisc421/ComingUpWithAResearchTopic/#/)
+4:45 | Student research:<br />Jason Hansen<br /> Hayden Rickard | Links to slides (to follow)<br />...<br />...
+5:45 | Work on group mapping assessment
 6:30 | Dinner | Takeaway - Indian or Chinese, probably!
 7:30 | Free time or continue work on group mapping exercise
 
@@ -43,6 +43,6 @@ Time | Activity | Notes
 9:00 | Clear rooms pack van
 10:00 | Kāpiti Coast District Council GIS team visit
 12:30 | Lunch at Waikanae Estuary
-1:00 | Meet with Department of Conservation and volunteers at the Estuary
+1:00 | Meet with Waikanae Estuary Care Group
 3:00 | Depart back to Wellington
 4:30 | Back at campus
