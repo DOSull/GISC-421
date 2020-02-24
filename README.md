@@ -29,9 +29,9 @@ These are in the Buchanan Room at 12PM on Wednesdays, unless otherwise noted. De
 Date | Speaker | Notes
 --- | --- | ---
 26-28 Feb | Otaki field trip | [Detailed timetable](field-trip/timetable.md)
-4 March |
+4 March | Ethics and GIS (David)
 11 March | Elliott Crosby ([Seequent](https://www.seequent.com/))
-18 March | Ethics and GIS (David)
+18 March | Andrew Parnel (Ministry of Primary Industries)
 25 March | [Chris McDowall](https://fogonwater.com/) | Author of [*We Are Here*](https://www.masseypress.ac.nz/books/we-are-here/)
 1 April | Programme progress check-in
 8 April | [Tony Moore](https://www.otago.ac.nz/surveying/people/otago040651.html) (Otago)
