@@ -43,6 +43,6 @@ Time | Activity | Notes
 9:00 | Clear rooms pack van
 10:00 | Kāpiti Coast District Council GIS team visit
 12:30 | Lunch at Waikanae Estuary
-1:00 | Meet with Waikanae Estuary Care Group
+1:00 | Meet with Robin Gunston of [Waikanae Estuary Care Group](https://www.naturespace.org.nz/groups/waikanae-estuary-care-group-inc)
 3:00 | Depart back to Wellington
 4:30 | Back at campus

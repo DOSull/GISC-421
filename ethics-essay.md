@@ -9,6 +9,9 @@ An essay of one of the following three topics:
 
 More information will be provided on this theme in a number of the Wednesday lectures, particularly 18 March, 29 April and 13 May.
 
-Some suggested readings are available linked from Blackboard in [this folder](https://blackboard.vuw.ac.nz/webapps/blackboard/content/listContentEditable.jsp?content_id=_2645898_1&course_id=_106344_1).
+## Some pointers
+Some suggested readings are available linked from Blackboard in [this folder](https://blackboard.vuw.ac.nz/webapps/blackboard/content/listContentEditable.jsp?content_id=_2645898_1&course_id=_106344_1)
+
+[URISA GIS code of ethics](https://www.urisa.org/about-us/gis-code-of-ethics/)
 
 Word limit: 2500 words, excluding reference list
