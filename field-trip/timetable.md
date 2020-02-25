@@ -29,7 +29,7 @@ Time | Activity | Notes
 12:30 | Sensor data download (Andy R)
 1:00 | Lunch
 2:00 | Work on group mapping exercise
-<br />3:30<br />4:00<br />4:45 | Staff research:<br />David O'Sullivan<br />Mirjam Schindler<br /> Oliver Wigmore | Links to slides (to follow)<br />[David's slides](https://southosullivan.com/gisc421/DavidsResearch/#/)<br />...<br />...
+<br />3:00<br />3:30<br />4:00<br />4:45 | Staff research:<br />Mairéad De Róiste (by video)<br />David O'Sullivan<br />Mirjam Schindler<br /> Oliver Wigmore | Links to slides<br />[Dropbox link (very large!)](https://www.dropbox.com/s/5w0gvyo1uafmoth/MaireadResearchoverviewMGIS2020.zip?dl=0)<br />[David's slides](https://southosullivan.com/gisc421/DavidsResearch/#/)<br />...<br />...
 5:30 | Work on group mapping exercise
 6:30 | Dinner | Weather permitting, fish and chips on Otaki Beach
 7:30 | Free time or continue work on assessments (mapping or data analysis)
