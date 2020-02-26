@@ -14,7 +14,7 @@ This activity asks you to reflect on the design and implementation of a scientif
 + Brief discussion and analysis of results (including a plot)
 
 Some additional things to consider (notes from David after collection of sensors)
-+ How important is the detail of sensor micro-location, e.g. closeness to ground, sun vs shade, ethics
++ How important is the detail of sensor micro-location, e.g. closeness to ground, sun vs shade, etc.
 + Based on the data how sensitive are the sensors in terms of precision in measuring a temperature?
 + How does this compare to expected outcomes (you might need to figure out the elevation range of the sensors we placed)
 + Based on all of this, how many sensors do you think might be needed at what scale and over what time period to reliably estimate the [lapse rate](https://en.wikipedia.org/wiki/Lapse_rate#Environmental_lapse_rate)?
