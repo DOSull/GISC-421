@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "ele": 161.278442,
+        "time": "2020/02/25",
+        "name": 310398688
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.21879,
+          -40.880228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "ele": 190.084427,
+        "time": "2020/02/25",
+        "name": 10386912
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.217204,
+          -40.881432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "ele": 183.53244,
+        "time": "2020/02/25",
+        "name": 10398689
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.215687,
+          -40.880845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "ele": 235.113998,
+        "time": "2020/02/25",
+        "name": 10398696
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.216706,
+          -40.881047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "ele": 275.242126,
+        "time": "2020/02/25",
+        "name": 10398691
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.216717,
+          -40.880283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "ele": 136.637299,
+        "time": "2020/02/25",
+        "name": 10398692
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.219353,
+          -40.880262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "ele": 126.25029,
+        "time": "2020/02/25",
+        "name": 10398693
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.220325,
+          -40.880669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ele": 94.0,
+        "time": null,
+        "name": "10386911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.20844859506073,
+          -40.82620519653241
+        ]
+      }
+    }
+  ]
+}

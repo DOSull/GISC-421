@@ -8,10 +8,18 @@ This report comprises three sections, described below.
 This activity asks you to reflect on the design and implementation of a scientific experiment using temperature data loggers, considering external factors that could influence data collection, and accounting for these factors.  
 ### Suggested outline
 + Hypothesis being tested ([this](https://en.wikipedia.org/wiki/Lapse_rate#Environmental_lapse_rate) might be useful background)
-+ Brief description of the sensor setup ([these data](field-trip/waypoints-points.geojson) may be helpful; note an additional sensor was place at the lodge)
++ Brief description of the sensor setup ([these data](field-trip/sensors.geojson) may be helpful; note an additional sensor was place at the lodge)
 + Factors influencing data collection
 + How the experiment accounts for these factors (if at all)
-+ Brief discussion and analysis of results (including a plot)
++ Brief discussion and analysis of results, including a plot. Here are the data from each sensor, with csv files named from sensor serial number:
+    + [10386911.csv](10386911.csv)
+    + [10398688.csv](10398688.csv) 
+    + [10398690.csv](10398690.csv)
+    + [10398692.csv](10398692.csv)
+    + [10386912.csv](10386912.csv)
+    + [10398689.csv](10398689.csv)
+    + [10398691.csv](10398691.csv)
+    + [10398693.csv](10398693.csv)
 
 Some additional things to consider (notes from David after collection of sensors)
 + How important is the detail of sensor micro-location, e.g. closeness to ground, sun vs shade, etc.
