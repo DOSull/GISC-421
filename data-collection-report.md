@@ -23,7 +23,7 @@ Some additional things to consider (notes from David after collection of sensors
 
 ## UAV report (30% of data report)
 ### Suggested outline
-Consult Andrew's slide presentation from Thursday morning for details.
+Consult [Andrew's slide presentation](https://blackboard.vuw.ac.nz/bbcswebdav/pid-2650795-dt-content-rid-9553611_1/xid-9553611_1) from Thursday morning for details.
 
 **Total length** up to 5 pages
 

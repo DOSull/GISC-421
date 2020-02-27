@@ -24,7 +24,7 @@ Time | Activity | Notes
 --- | --- | ---
 7:00 | Breakfast
 8:00 | Work on group mapping exercise
-9:00 | Lecture on UAV theory and methods (Andrew M) | Link to slides (to be added)
+9:00 | Lecture on UAV theory and methods (Andrew M) | [Link to slides](https://blackboard.vuw.ac.nz/bbcswebdav/pid-2650795-dt-content-rid-9553611_1/xid-9553611_1)
 10:00 | UAV data collection exercise (Andrew M and Andy R)
 12:30 | Sensor data download (Andy R)
 1:00 | Lunch
