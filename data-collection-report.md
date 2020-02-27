@@ -12,14 +12,14 @@ This activity asks you to reflect on the design and implementation of a scientif
 + Factors influencing data collection
 + How the experiment accounts for these factors (if at all)
 + Brief discussion and analysis of results, including a plot. Here are the data from each sensor, with csv files named from sensor serial number:
-    + [10386911.csv](10386911.csv?raw=true)
-    + [10398688.csv](10398688.csv?raw=true)
-    + [10398690.csv](10398690.csv?raw=true)
-    + [10398692.csv](10398692.csv?raw=true)
-    + [10386912.csv](10386912.csv?raw=true)
-    + [10398689.csv](10398689.csv?raw=true)
-    + [10398691.csv](10398691.csv?raw=true)
-    + [10398693.csv](10398693.csv?raw=true)
+    + [10386911.csv](field-trip/10386911.csv?raw=true)
+    + [10398688.csv](field-trip/10398688.csv?raw=true)
+    + [10398690.csv](field-trip/10398690.csv?raw=true)
+    + [10398692.csv](field-trip/10398692.csv?raw=true)
+    + [10386912.csv](field-trip/10386912.csv?raw=true)
+    + [10398689.csv](field-trip/10398689.csv?raw=true)
+    + [10398691.csv](field-trip/10398691.csv?raw=true)
+    + [10398693.csv](field-trip/10398693.csv?raw=true)
 
 Some additional things to consider (notes from David after collection of sensors)
 + How important is the detail of sensor micro-location, e.g. closeness to ground, sun vs shade, etc.
