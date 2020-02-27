@@ -11,7 +11,7 @@ This activity asks you to reflect on the design and implementation of a scientif
 + Brief description of the sensor setup ([these data](field-trip/sensors.geojson) may be helpful; note an additional sensor was place at the lodge)
 + Factors influencing data collection
 + How the experiment accounts for these factors (if at all)
-+ Brief discussion and analysis of results, including a plot. Here are the data from each sensor, with csv files named from sensor serial number:
++ Brief discussion and analysis of results, including a plot. Here are the data from each sensor, with csv files named from sensor serial number (to download, **Right-click - Save as...***):
     + [10386911.csv](field-trip/10386911.csv?raw=true)
     + [10398688.csv](field-trip/10398688.csv?raw=true)
     + [10398690.csv](field-trip/10398690.csv?raw=true)
