@@ -5,6 +5,8 @@
 This report comprises three sections, described below.
 
 ## Sensor report (30% of data report)
+Submit your report to [this dropbox on blackboard](https://blackboard.vuw.ac.nz/webapps/assignment/uploadAssignment?content_id=_2665881_1&course_id=_106344_1&group_id=&mode=cpview).
+
 This activity asks you to reflect on the design and implementation of a scientific experiment using temperature data loggers, considering external factors that could influence data collection, and accounting for these factors.  
 ### Suggested outline
 + Hypothesis being tested ([this](https://en.wikipedia.org/wiki/Lapse_rate#Environmental_lapse_rate) might be useful background)
