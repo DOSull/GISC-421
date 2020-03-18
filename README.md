@@ -2,6 +2,9 @@
 # GISC 421 GIS Applications and Impact
 This is the online presence for VUW GISC 421 GIS Applications and Impact in T1 2020.
 
+## Link to zoom meetings of this class
+[https://vuw.zoom.us/j/717474954](https://vuw.zoom.us/j/717474954)
+
 ## Important dates
 Item | Dates
  -: | :-
