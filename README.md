@@ -34,8 +34,8 @@ Date | Speaker | Notes
 26-28 Feb | Otaki field trip | [Detailed timetable](field-trip/timetable.md)
 4 March | [Ethics and GIS](https://southosullivan.com/gisc421/EthicalConsiderations/) (David)
 11 March | Elliott Crosby ([Seequent](https://www.seequent.com/)) | [Link to the online session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2VmZDcxMTMtNjY2Yi00YTQyLWJkZjgtODJlMDEyYzA2MDlk%40thread.v2/0?context=%7b%22Tid%22%3a%229d3a50aa-06a0-4090-b99a-9b798edce6b8%22%2c%22Oid%22%3a%22ed52f61e-c6ed-4ba7-bd4c-7263316d21a4%22%7d)
-18 March | Andrew Parnel (Ministry of Primary Industries)
-25 March | [Chris McDowall](https://fogonwater.com/) | Author of [*We Are Here*](https://www.masseypress.ac.nz/books/we-are-here/) 
+18 March | Andrew Parnel (Ministry of Primary Industries) | [Link to slides](guests/GIS-at-MPI-Andrew-Parnell-2020.pptx?raw=true)
+25 March | [Chris McDowall](https://fogonwater.com/) | Author of [*We Are Here*](https://www.masseypress.ac.nz/books/we-are-here/)
 1 April | Programme progress check-in
 8 April | [Tony Moore](https://www.otago.ac.nz/surveying/people/otago040651.html) (Otago)
 | BREAK
