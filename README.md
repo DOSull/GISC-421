@@ -2,16 +2,20 @@
 # GISC 421 GIS Applications and Impact
 This is the online presence for VUW GISC 421 GIS Applications and Impact in T1 2020.
 
+# Important!
+**Details of deadlines and scheduled meetings on this page should be treated as provisional and subject to change until you hear from the course coordinator via Blackboard that they are final. This is due to reorganisation in response to the COVID-19 crisis.**
+
 ## Link to zoom meetings of this class
 [https://vuw.zoom.us/j/717474954](https://vuw.zoom.us/j/717474954)
 
 ## Important dates
 Item | Dates
  -: | :-
-Trimester | 2 March to 27 June 2020
-Teaching period | 2 March to 5 June 2020
-Mid-trimester break | 13 April to 27 April 2020
-Last assessment item due | 12 June 2020
+Trimester | 2 March to 26 June 2020
+Teaching period | 2 March to 26 June 2020
+University shutdown | 24 March to 27 April2020
+Mid-trimester break | NA
+Last assessment item due | 26 June 2020
 Study period | NA
 Examination period | NA
 Withdrawal dates | See [Course additions and withdrawals](www.victoria.ac.nz/home/admisenrol/payments/withdrawalsrefunds)
@@ -35,16 +39,16 @@ Date | Speaker | Notes
 4 March | [Ethics and GIS](https://southosullivan.com/gisc421/EthicalConsiderations/) (David)
 11 March | Elliott Crosby ([Seequent](https://www.seequent.com/)) | [Link to the online session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2VmZDcxMTMtNjY2Yi00YTQyLWJkZjgtODJlMDEyYzA2MDlk%40thread.v2/0?context=%7b%22Tid%22%3a%229d3a50aa-06a0-4090-b99a-9b798edce6b8%22%2c%22Oid%22%3a%22ed52f61e-c6ed-4ba7-bd4c-7263316d21a4%22%7d)
 18 March | Andrew Parnel (Ministry of Primary Industries) | [Link to slides](guests/GIS-at-MPI-Andrew-Parnell-2020.pptx?raw=true)
-25 March | [Chris McDowall](https://fogonwater.com/) | Author of [*We Are Here*](https://www.masseypress.ac.nz/books/we-are-here/)
-1 April | Programme progress check-in
-8 April | [Tony Moore](https://www.otago.ac.nz/surveying/people/otago040651.html) (Otago)
-| BREAK
-29 April | [Rebecca Kiddle](https://www.wgtn.ac.nz/architecture/about/staff/rebecca-kiddle) (VUW Architecture)
+**COVID-19** | [**ALERT LEVEL 4**](https://covid19.govt.nz/government-actions/covid-19-alert-system/) | **UNIVERSITY CLOSED**
+29 April | [Chris McDowall](https://fogonwater.com/) | Author of [*We Are Here*](https://www.masseypress.ac.nz/books/we-are-here/)
 6 May |
-13 May | [Sydney Shep](https://www.wgtn.ac.nz/wtapress/about/staff/sydney-shep) (VUW Waiteatea Press)
-20 May | Programme progress check-in
-27 May | Duane Wilkins ([LINZ](http://linz.govt.nz/))
-3 June |
+13 May | TO BE CONFIRMED: [Tony Moore](https://www.otago.ac.nz/surveying/people/otago040651.html) (Otago)
+20 May | TO BE CONFIRMED: [Rebecca Kiddle](https://www.wgtn.ac.nz/architecture/about/staff/rebecca-kiddle) (VUW Architecture)
+27 May |
+3 June | TO BE CONFIRMED: [Sydney Shep](https://www.wgtn.ac.nz/wtapress/about/staff/sydney-shep) (VUW Waiteatea Press)
+10 June |
+17 June | TO BE CONFIRMED: Duane Wilkins ([LINZ](http://linz.govt.nz/))
+24 June |
 
 ## Assessment Details
 There are three course assessments, with details linked in the table below.
@@ -52,11 +56,11 @@ There are three course assessments, with details linked in the table below.
 Item | Course credit | Due date
 --- | --- | ---
 [Data collection report](data-collection-report.md) (up to 10 pages plus story map) | 30% | 5pm Mon 23 March [Submit here](https://blackboard.vuw.ac.nz/webapps/assignment/uploadAssignment?content_id=_2665881_1&course_id=_106344_1&group_id=&mode=cpview)
-[Ethics essay](ethics-essay.md) (up to 2500 words) | 30% | 5pm Mon 25 May
-[GIS in New Zealand essay](gis-in-new-zealand-essay.md) (up to 2500 words) | 40% | 5pm Fri 5 June
+[Ethics essay](ethics-essay.md) (up to 2500 words) | 30% | 5pm Mon 15 June
+[GIS in New Zealand essay](gis-in-new-zealand-essay.md) (up to 2500 words) | 40% | 5pm Fri 26 June
 
 ## Additional information
-The primary mode of communication for the course will be via Blackboard, so please ensure that your contact details there are up to date and are regularly checked (note that Blackboard defaults to your myvuw email address).
+The primary mode of communication for the course will be via Blackboard and [Slack](https://vuwgisc2020.slack.com), so please ensure that your contact details there are up to date and are regularly checked (note that Blackboard defaults to your `myvuw.ac.nz` email address).
 
 ### Class representatives
 Since this is a relatively small graduate class, I expect that it will not be a problem to raise any issues or concerns directly with me, or with the GIS technician.
