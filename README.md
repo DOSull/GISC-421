@@ -55,9 +55,9 @@ There are three course assessments, with details linked in the table below.
 
 Item | Course credit | Due date
 --- | --- | ---
-[Data collection report](data-collection-report.md) (up to 10 pages plus story map) | 30% | 5pm Mon 23 March [Submit here](https://blackboard.vuw.ac.nz/webapps/assignment/uploadAssignment?content_id=_2665881_1&course_id=_106344_1&group_id=&mode=cpview)
+[Data collection report](data-collection-report.md) (up to 10 pages plus story map) | 40% | 5pm Mon 23 March [Submit here](https://blackboard.vuw.ac.nz/webapps/assignment/uploadAssignment?content_id=_2665881_1&course_id=_106344_1&group_id=&mode=cpview)
 [Ethics essay](ethics-essay.md) (up to 2500 words) | 30% | 5pm Mon 15 June
-[GIS in New Zealand essay](gis-in-new-zealand-essay.md) (up to 2500 words) | 40% | 5pm Fri 26 June
+[GIS in New Zealand essay](gis-in-new-zealand-essay.md) (up to 2500 words) | 30% | 5pm Fri 26 June
 
 ## Additional information
 The primary mode of communication for the course will be via Blackboard and [Slack](https://vuwgisc2020.slack.com), so please ensure that your contact details there are up to date and are regularly checked (note that Blackboard defaults to your `myvuw.ac.nz` email address).
