@@ -45,10 +45,10 @@ Week | Date | Speaker | Notes
 2 | 11 Mar | Elliott Crosby ([Seequent](https://www.seequent.com/)) | [Link to the online session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2VmZDcxMTMtNjY2Yi00YTQyLWJkZjgtODJlMDEyYzA2MDlk%40thread.v2/0?context=%7b%22Tid%22%3a%229d3a50aa-06a0-4090-b99a-9b798edce6b8%22%2c%22Oid%22%3a%22ed52f61e-c6ed-4ba7-bd4c-7263316d21a4%22%7d)
 3 | 18 Mar | Andrew Parnel (Ministry of Primary Industries) | [Link to slides](guests/GIS-at-MPI-Andrew-Parnell-2020.pptx?raw=true)
 | **COVID-19** | [**ALERT LEVEL 4**](https://covid19.govt.nz/government-actions/covid-19-alert-system/) | **UNIVERSITY CLOSED**
-4 | 1 Apr | TO BE CONFIRMED [Chris McDowall](https://fogonwater.com/) | Author of [*We Are Here*](https://www.masseypress.ac.nz/books/we-are-here/)
-5 |
+4 | 1 Apr | [Chris McDowall](https://fogonwater.com/) | Author of [*We Are Here*](https://www.masseypress.ac.nz/books/we-are-here/)
+5 | 8 Apr | [Tony Moore](https://www.otago.ac.nz/surveying/people/otago040651.html) (Otago)
 || **SEMESTER BREAK (kinda sorta)** | **NO TEACHING**
-6 | 29 Apr | TO BE CONFIRMED: [Tony Moore](https://www.otago.ac.nz/surveying/people/otago040651.html) (Otago)
+6 | 29 Apr |
 7 | 6 May | TO BE CONFIRMED: [Rebecca Kiddle](https://www.wgtn.ac.nz/architecture/about/staff/rebecca-kiddle) (VUW Architecture)
 8 | 13 May |
 9 | 20 May | TO BE CONFIRMED: [Sydney Shep](https://www.wgtn.ac.nz/wtapress/about/staff/sydney-shep) (VUW Waiteatea Press)
