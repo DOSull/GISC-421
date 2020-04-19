@@ -47,13 +47,13 @@ Week | Date | Speaker | Notes
 | **COVID-19** | [**ALERT LEVEL 4**](https://covid19.govt.nz/government-actions/covid-19-alert-system/) | **UNIVERSITY CLOSED**
 4 | 1 Apr | [Chris McDowall](https://fogonwater.com/) | Author of [*We Are Here*](https://www.masseypress.ac.nz/books/we-are-here/)
 5 | 8 Apr | [Tony Moore](https://www.otago.ac.nz/surveying/people/otago040651.html) (Otago)
-|| **SEMESTER BREAK (kinda sorta)** | **NO TEACHING**
-6 | 29 Apr |
-7 | 6 May | TO BE CONFIRMED: [Rebecca Kiddle](https://www.wgtn.ac.nz/architecture/about/staff/rebecca-kiddle) (VUW Architecture)
-8 | 13 May |
-9 | 20 May | TO BE CONFIRMED: [Sydney Shep](https://www.wgtn.ac.nz/wtapress/about/staff/sydney-shep) (VUW Waiteatea Press)
-10 | 27 May |
-11 | 3 Jun | TO BE CONFIRMED: Duane Wilkins ([LINZ](http://linz.govt.nz/))
+ | | **SEMESTER BREAK** | **NO TEACHING**
+6 | 29 Apr | [Sydney Shep](https://www.wgtn.ac.nz/wtapress/about/staff/sydney-shep) (VUW Waiteatea Press)
+7 | 6 May |
+8 | 13 May | [Rebecca Kiddle](https://www.wgtn.ac.nz/architecture/about/staff/rebecca-kiddle) (VUW Architecture)
+9 | 20 May |
+10 | 27 May | Duane Wilkins ([LINZ](http://linz.govt.nz/))
+11 | 3 Jun |
 12 | 10 Jun |
 
 ## Assessment Details
