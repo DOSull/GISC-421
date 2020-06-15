@@ -7,6 +7,6 @@ Based on the guest lectures in the course and your reading, identify the key cur
 Word limit: 2500 words, excluding reference list
 
 ## Some references to start
-[New Zealand geospatial research and development priorities and opportunities](https://www.linz.govt.nz/system/files_force/media/file-attachments/GRDPO_Section-A.pdf?download=1)
+[New Zealand geospatial research and development priorities and opportunities](https://www.linz.govt.nz/sites/default/files/media/file-attachments/GRDPO_Section-A.pdf)
 
 [LINZ vision, strategy and values](https://www.linz.govt.nz/about-linz/our-vision-strategy-and-values/our-location-strategy)
