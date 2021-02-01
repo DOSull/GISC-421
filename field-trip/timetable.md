@@ -3,6 +3,7 @@
 Times are approximate, but it's a tight schedule and we will endeavour to stick to it!
 
 ## Wednesday, 17 February 2021
+
 Time | Activity | Notes
 --- | --- | ---
 9:00 | Assemble **Cotton Plaza** Kelburn Campus | Be there on time, and don't forget to bring a packed lunch. Other essentials listed in [this document](README.md#what-to-bring)
@@ -17,6 +18,7 @@ Time | Activity | Notes
 7:30 | Free time or continue work on group mapping exercise
 
 ## Thursday, 18 February 2021
+
 Time | Activity | Notes
 --- | --- | ---
 7:00 | Breakfast
@@ -29,6 +31,7 @@ Time | Activity | Notes
 7:30 | Free time or continue work on assessments (mapping or data analysis)
 
 ## Friday, 19 February 2021
+
 Time | Activity | Notes
 --- | --- | ---
 7:00 | Breakfast |
