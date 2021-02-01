@@ -11,7 +11,7 @@ You will find the zoom link for this class on [Blackboard](https://blackboard.vu
 
 ## Important dates
 Item | Dates
- -: | :-
+ -- | --
 Trimester | 22 February to 19 June 2021
 Teaching period | 22 February to 28 May 2021
 Mid-trimester break | 5 April to 16 April 2021
@@ -39,9 +39,9 @@ Week | Date | Speaker | Notes
 -- | -- | -- | --
 0 | 17-19 Feb | Otaki field trip | [Detailed timetable](field-trip/timetable.md)
 1 | 24 Feb | <!--[Ethics and GIS](https://southosullivan.com/gisc421/EthicalConsiderations/) (David)-->
-2 | 3 Mar | <!--Elliott Crosby ([Seequent](https://www.seequent.com/)) | [Link to the online session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2VmZDcxMTMtNjY2Yi00YTQyLWJkZjgtODJlMDEyYzA2MDlk%40thread.v2/0?context=%7b%22Tid%22%3a%229d3a50aa-06a0-4090-b99a-9b798edce6b8%22%2c%22Oid%22%3a%22ed52f61e-c6ed-4ba7-bd4c-7263316d21a4%22%7d)-->
-3 | 10 Mar | <!--Andrew Parnell (Ministry of Primary Industries) | [Link to slides](guests/GIS-at-MPI-Andrew-Parnell-2020.pptx?raw=true)-->
-4 | 17 Mar | <!--[Chris McDowall](https://fogonwater.com/) | Author of [*We Are Here*](https://www.masseypress.ac.nz/books/we-are-here/)-->
+2 | 3 Mar | <!--Elliott Crosby ([Seequent](https://www.seequent.com/)) --> | <!--[Link to the online session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2VmZDcxMTMtNjY2Yi00YTQyLWJkZjgtODJlMDEyYzA2MDlk%40thread.v2/0?context=%7b%22Tid%22%3a%229d3a50aa-06a0-4090-b99a-9b798edce6b8%22%2c%22Oid%22%3a%22ed52f61e-c6ed-4ba7-bd4c-7263316d21a4%22%7d)-->
+3 | 10 Mar | <!--Andrew Parnell (Ministry of Primary Industries)--> | <!--[Link to slides](guests/GIS-at-MPI-Andrew-Parnell-2020.pptx?raw=true)-->
+4 | 17 Mar | <!--[Chris McDowall](https://fogonwater.com/)--> | <!--Author of [*We Are Here*](https://www.masseypress.ac.nz/books/we-are-here/)-->
 5 | 24 Mar | <!--[Tony Moore](https://www.otago.ac.nz/surveying/people/otago040651.html) (Otago)-->
 6 | 31 Mar | <!--[Sydney Shep](https://www.wgtn.ac.nz/wtapress/about/staff/sydney-shep) (VUW Waiteatea Press)-->
  | | **SEMESTER BREAK** | **NO TEACHING**
