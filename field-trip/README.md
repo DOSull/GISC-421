@@ -41,6 +41,7 @@ Waihōanga lodge is comfortable, with bedding, towels, toilets and Wi-Fi (everyt
 However, many of the activities will take place outdoors and the weather in the area can be hostile at any time of year. Ensure that you have everything on the lists below.
 
 ### Essentials
+
 Item | Notes
 --- | ---
 Sturdy outdoor shoes | Hiking boots preferred, and NOT open toe sandals or jandals. Some areas may be muddy/slippy
@@ -57,6 +58,7 @@ Toiletries | Don’t forget your toothbrush!
 Laptop & charger | If you do not have a laptop, let us know as a limited number may be available for loan from the school
 
 ### Recommended
+
 Item | Notes
 --- | ---
 Camera |
