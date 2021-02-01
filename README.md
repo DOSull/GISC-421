@@ -31,7 +31,7 @@ The schedule for the course will be posted here, along with links to lecture mat
 **Office** CO227 **Extn.** 6492 **Office hours preferably by appointment** [click here](http://calendly.com/dosullivan) but direct message me on [the Slack](https://vuwgisc2020.slack.com) and we can arrange contact. My office phone is not a good way to reach me.
 
 ## Field trip 17-19 Feb
-An outline of the three day (two night) residential field trip is posted [here](field-trip/overview-and-requirements.md), along with the [timetable](field-trip/timetable.md) (not yet finalised).
+An outline of the three day (two night) residential field trip is posted [here](field-trip/README.md), along with the [timetable](field-trip/timetable.md) (not yet finalised).
 
 ## Schedule of guest lectures and meetings
 These are in the Buchanan Room at 12PM on Wednesdays, unless otherwise noted. Details are subject to change as the trimester unfolds, so check Blackboard regularly for any updates.
