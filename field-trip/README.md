@@ -60,7 +60,7 @@ Laptop & charger | If you do not have a laptop, let us know as a limited number 
 Item | Notes
 --- | ---
 Camera |
-Phone and changer |
+Phone and charger |
 Sunglasses |
 Spare notebook and pens |
 Glasses (if needed) | For presentations and talks.
