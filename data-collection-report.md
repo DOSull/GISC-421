@@ -1,15 +1,14 @@
-#### GISC 421 T1 2020
+#### GISC 421 T1 2021
 # Data collection report
-**due 5pm, Monday 23 March**
+**due 5pm, Monday 8 March** submit your report to the dropbox provided on Blackboard.
 
 This report comprises three sections, described below.
 
 ## Sensor report (30% of data report)
-Submit your report to [this dropbox on blackboard](https://blackboard.vuw.ac.nz/webapps/assignment/uploadAssignment?content_id=_2665881_1&course_id=_106344_1&group_id=&mode=cpview).
-
 This activity asks you to reflect on the design and implementation of a scientific experiment using temperature data loggers, considering external factors that could influence data collection, and accounting for these factors.  
 ### Suggested outline
-+ Hypothesis being tested ([this](https://en.wikipedia.org/wiki/Lapse_rate#Environmental_lapse_rate) might be useful background)
+Details to follow.
+<!--+ Hypothesis being tested ([this](https://en.wikipedia.org/wiki/Lapse_rate#Environmental_lapse_rate) might be useful background)
 + Brief description of the sensor setup ([these data](field-trip/sensors.geojson) may be helpful; note an additional sensor was place at the lodge)
 + Factors influencing data collection
 + How the experiment accounts for these factors (if at all)
@@ -27,7 +26,7 @@ Some additional things to consider (notes from David after collection of sensors
 + How important is the detail of sensor micro-location, e.g. closeness to ground, sun vs shade, etc.
 + Based on the data how sensitive are the sensors in terms of precision in measuring a temperature?
 + How does this compare to expected outcomes (you might need to figure out the elevation range of the sensors we placed)
-+ Based on all of this, how many sensors do you think might be needed at what scale and over what time period to reliably estimate the [lapse rate](https://en.wikipedia.org/wiki/Lapse_rate#Environmental_lapse_rate)?
++ Based on all of this, how many sensors do you think might be needed at what scale and over what time period to reliably estimate the [lapse rate](https://en.wikipedia.org/wiki/Lapse_rate#Environmental_lapse_rate)?-->
 
 **Total length** up to 5 pages
 
@@ -40,13 +39,13 @@ Consult [Andrew's slide presentation](https://blackboard.vuw.ac.nz/bbcswebdav/pi
 ## Group storymap (40% of data report)
 In groups of 2 or 3, you will create a storymap using either ArcGIS online or other suitable applications, of the Waihōanga retreat centre.  
 
-The storymap should be designed for promotional purposes for the centre. You should be clear about what audience you had in mind for your design, but please don't narrow this down to a very specific purpose (e.g. 'weddings'), as the centre is a general purpose site. You should aim to emphasise the wide range of possible kinds of event the centre could potentially host.
+The storymap should be designed for promotional purposes for the centre. You should be clear about what audience you had in mind for your design, but please don't narrow this down to a very specific purpose (e.g. 'weddings'), as the centre is a general purpose site. You should aim to emphasise the wide range of possible kinds of event the centre could potentially host. Don't spend too long overthinking the audience. This is not a course on marketing.
 
 Keeping in mind the geographical emphasis of a storymap, don't forget to consider things like nearby attractions, and how to get there. You are not required to include these, but your inclusion or exclusion of these should be intentional.
 
 You are expected to collect photos, video, and other data while on the field trip.
 
-The storymap can be completed either on the fieldtrip or during the trimester. In assessing this assignment, we will consider audience, design, usability, and suitability of the storymap.
+The storymap can be completed either on the fieldtrip (unlikely, we think) or during the trimester. In assessing this assignment, we will consider audience, design, usability, and suitability of the storymap.
 
 Your submission should include a **brief** paragraph explaining thinking behind the design, particularly the audience you had in mind, and also a URL link to the completed storymap.
 

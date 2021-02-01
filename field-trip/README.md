@@ -1,7 +1,7 @@
 # Otaki Forks field trip
-As you should be aware, we start the programme with a 3-day field trip as part of GISC 421 (Applications and Impact of GIS). The field trip starts on Wednesday 26 February 2020 (the week before trimester 1), and will visit the beautiful Otaki Forks and Kāpiti Coast.
+As you should be aware, we start the programme with a 3-day field trip as part of GISC 421 (Applications and Impact of GIS). The field trip starts on Wednesday 17 February 2020 (the week before trimester 1), and will visit the beautiful Otaki Forks and Kāpiti Coast.
 
-During the field trip, we will intersperse lectures, discussions and getting to know you with a UAV (drone) survey, deployment of sensors, and a trip to the Kāpiti Coast District council GIS team, and Waikanae Estuary, to explore the use of GIS in a variety of settings.
+During the field trip, we will intersperse lectures, discussions and getting to know you with a UAV (drone) survey, deployment of sensors, and on Friday a trip to the Wairarapa to consider the use of GIS and geospatial technologies in the context of a number of inter-related projects around Wairarapa Moana.
 
 **The field trip details are below. Please read them carefully.**
 
@@ -11,19 +11,19 @@ We will provide a detailed schedule for the three days a little closer to the ti
 
 If you have any questions, please email [David O'Sullivan](mailto:david.osullivan@vuw.ac.nz), the field trip coordinator.
 
-See you in a couple of weeks!
-
-
 ## Timing and location
-*Leaving* 9.30AM on Wednesday 26 February from the university’s Kelburn campus - Cotton Plaza. See the [campus map](https://www.victoria.ac.nz/about/explore-victoria/campuses/kelburn/kelburn-campus-map.pdf).
+*Leaving* 9.30AM on Wednesday 17 February from the university’s Kelburn campus - Cotton Plaza. See the [campus map](https://www.victoria.ac.nz/about/explore-victoria/campuses/kelburn/kelburn-campus-map.pdf).
 
-*Returning* to campus by 6 pm on Friday 1st March.
+*Returning* to campus by 6 pm on Friday 19 February.
 
 We will be staying at:
 
 [Waihōanga River Lodge and Retreat](https://waihoanga.co.nz/)
 [32 Waihōanga Rd, Otaki 5582](https://goo.gl/maps/PnN1Ef8g67KkpGUg8)
 Kāpiti Coast
+
+### Timetable
+A detailed timetable of planned activities is provided [here](timetable.md).
 
 ## Logistics
 The trip will be catered (please ensure you specify any dietary requirements on the personal disclosure form).
@@ -38,7 +38,7 @@ The first catered meal is the **evening meal on Wednesday** so **you must bring 
 ## What to bring
 Waihōanga lodge is comfortable, with bedding, towels, toilets and Wi-Fi (everything you need) provided.
 
-However, many of the activities will take place outdoors and the weather in New Zealand can be hostile at any time of year. Ensure that you have everything on the lists below.
+However, many of the activities will take place outdoors and the weather in the area can be hostile at any time of year. Ensure that you have everything on the lists below.
 
 ### Essentials
 Item | Notes
@@ -64,8 +64,6 @@ Phone and changer |
 Sunglasses |
 Spare notebook and pens |
 Glasses (if needed) | For presentations and talks.
-
-
 
 ## Assessment
 The field trip is part of GISC421 (Geographic Information Science Applications and Impact) and some of the activities will be directly assessed while others will form a basis for other course work.  Further details will be provided on the field trip.

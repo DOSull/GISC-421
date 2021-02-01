@@ -1,6 +1,6 @@
-#### GISC 421 T1 2020
+#### GISC 421 T1 2021
 # GIS in New Zealand essay
-**due 5pm, Friday 5 June**
+**due 5pm, Friday 6 June** submit your essay to the dropbox provided on Blackboard.
 
 Based on the guest lectures in the course and your reading, identify the key current challenges and opportunities for GIS in New Zealand.
 

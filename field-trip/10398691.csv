@@ -1,8 +1,0 @@
-﻿"Plot Title: 02"
-"#","Date Time, GMT+13:00","Max: Temperature, °C (LGR S/N: 10398691)","Coupler Detached (LGR S/N: 10398691)","Coupler Attached (LGR S/N: 10398691)","Host Connected (LGR S/N: 10398691)","Stopped (LGR S/N: 10398691)","End Of File (LGR S/N: 10398691)"
-1,02/26/20 12:00:00 AM,31.740,,,,,
-2,02/26/20 11:00:00 AM,,Logged,,,,
-3,02/27/20 12:00:00 AM,28.891,,,,,
-4,02/27/20 02:12:18 PM,,,Logged,,,
-5,02/27/20 02:12:25 PM,,,,Logged,,
-6,02/27/20 02:12:43 PM,,,,,Logged,Logged
