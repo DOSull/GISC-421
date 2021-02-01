@@ -10,6 +10,7 @@ You will find the zoom link for this class on [Blackboard](https://blackboard.vu
 -->
 
 ## Important dates
+
 Item | Dates
  -- | --
 Trimester | 22 February to 19 June 2021
