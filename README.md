@@ -36,7 +36,7 @@ An outline of the three day (two night) residential field trip is posted [here](
 These are in the Buchanan Room at 12PM on Wednesdays, unless otherwise noted. Details are subject to change as the trimester unfolds, so check Blackboard regularly for any updates.
 
 Week | Date | Speaker | Notes
-:---:|:---|:---|:---
+-- | -- | -- | --
 0 | 17-19 Feb | Otaki field trip | [Detailed timetable](field-trip/timetable.md)
 1 | 24 Feb | <!--[Ethics and GIS](https://southosullivan.com/gisc421/EthicalConsiderations/) (David)-->
 2 | 3 Mar | <!--Elliott Crosby ([Seequent](https://www.seequent.com/)) | [Link to the online session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2VmZDcxMTMtNjY2Yi00YTQyLWJkZjgtODJlMDEyYzA2MDlk%40thread.v2/0?context=%7b%22Tid%22%3a%229d3a50aa-06a0-4090-b99a-9b798edce6b8%22%2c%22Oid%22%3a%22ed52f61e-c6ed-4ba7-bd4c-7263316d21a4%22%7d)-->
@@ -56,7 +56,7 @@ Week | Date | Speaker | Notes
 There are three course assessments, with details linked in the table below. Asll assignments should be submitted to the dropboxes provided on Blackboard.
 
 Item | Course credit | Due date
---- | --- | ---
+-- | -- | --
 [Data collection report](data-collection-report.md) (up to 10 pages plus story map) | 30% | 5pm Mon 8 March
 [Ethics essay](critical-gis-essay.md) (up to 2500 words) | 40% | 5pm Mon 26 April
 [GIS in New Zealand essay](gis-in-new-zealand-essay.md) (up to 2500 words) | 30% | 5pm Fri 6 June
