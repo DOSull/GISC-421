@@ -3,9 +3,7 @@ As you should be aware, we start the programme with a 3-day field trip as part o
 
 During the field trip, we will intersperse lectures, discussions and getting to know you with a UAV (drone) survey, deployment of sensors, and on Friday a trip to the Wairarapa to consider the use of GIS and geospatial technologies in the context of a number of inter-related projects around Wairarapa Moana.
 
-**The field trip details are below. Please read them carefully.**
-
-**This is a residential field trip that will involve two nights away from Wellington.**
+**The field trip details are below. Please read them carefully. This is a residential field trip that will involve two nights away from Wellington.**
 
 We will provide a detailed schedule for the three days a little closer to the time. For now, please fill out and return the *Personal Disclosure* form which has been sent to you to [David O'Sullivan](mailto:david.osullivan@vuw.ac.nz) as soon as possible (if you lost that email, the form is also available to download from [here](personal-disclosure-form.doc?raw=true)).
 
