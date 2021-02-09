@@ -39,19 +39,19 @@ These are in the Buchanan Room at 12PM on Wednesdays, unless otherwise noted. De
 Week | Date | Speaker | Notes
 -- | -- | -- | --
 0 | 17-19 Feb | Otaki field trip | [Detailed timetable](field-trip/timetable.md)
-1 | 24 Feb | <!--[Ethics and GIS](https://southosullivan.com/gisc421/EthicalConsiderations/) (David)-->
-2 | 3 Mar | <!--Elliott Crosby ([Seequent](https://www.seequent.com/)) --> | <!--[Link to the online session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2VmZDcxMTMtNjY2Yi00YTQyLWJkZjgtODJlMDEyYzA2MDlk%40thread.v2/0?context=%7b%22Tid%22%3a%229d3a50aa-06a0-4090-b99a-9b798edce6b8%22%2c%22Oid%22%3a%22ed52f61e-c6ed-4ba7-bd4c-7263316d21a4%22%7d)-->
-3 | 10 Mar | <!--Andrew Parnell (Ministry of Primary Industries)--> | <!--[Link to slides](guests/GIS-at-MPI-Andrew-Parnell-2020.pptx?raw=true)-->
-4 | 17 Mar | <!--[Chris McDowall](https://fogonwater.com/)--> | <!--Author of [*We Are Here*](https://www.masseypress.ac.nz/books/we-are-here/)-->
-5 | 24 Mar | <!--[Tony Moore](https://www.otago.ac.nz/surveying/people/otago040651.html) (Otago)-->
-6 | 31 Mar | <!--[Sydney Shep](https://www.wgtn.ac.nz/wtapress/about/staff/sydney-shep) (VUW Waiteatea Press)-->
+1 | 24 Feb | No meeting
+2 | 3 Mar | Introducing 'Critical GIS' (David) |
+3 | 10 Mar | Guest (TBC) | <!--[Link to slides](guests/GIS-at-MPI-Andrew-Parnell-2020.pptx?raw=true)-->
+4 | 17 Mar | Guest (TBC) | <!--[Chris McDowall](https://fogonwater.com/)--> | <!--Author of [*We Are Here*](https://www.masseypress.ac.nz/books/we-are-here/)-->
+5 | 24 Mar | Guest (TBC) | <!--[Tony Moore](https://www.otago.ac.nz/surveying/people/otago040651.html) (Otago)-->
+6 | 31 Mar | Guest (TBC) | <!--[Sydney Shep](https://www.wgtn.ac.nz/wtapress/about/staff/sydney-shep) (VUW Waiteatea Press)-->
  | | **SEMESTER BREAK** | **NO TEACHING**
-7 | 21 Apr |
-8 | 28 Apr | <!--[Rebecca Kiddle](https://www.wgtn.ac.nz/architecture/about/staff/rebecca-kiddle) (VUW Architecture)-->
-9 | 5 May |
-10 | 12 May | <!--Duane Wilkins ([LINZ](http://linz.govt.nz/))-->
-11 | 19 May |
-12 | 26 May |
+7 | 21 Apr | Guest (TBC) |
+8 | 28 Apr | Guest (TBC) | <!--[Rebecca Kiddle](https://www.wgtn.ac.nz/architecture/about/staff/rebecca-kiddle) (VUW Architecture)-->
+9 | 5 May | Guest (TBC) |
+10 | 12 May | Guest (TBC) | <!--Duane Wilkins ([LINZ](http://linz.govt.nz/))-->
+11 | 19 May | Guest (TBC) |
+12 | 26 May | Guest (TBC) |
 
 ## Assessment Details
 There are three course assessments, with details linked in the table below. Asll assignments should be submitted to the dropboxes provided on Blackboard.
@@ -59,8 +59,8 @@ There are three course assessments, with details linked in the table below. Asll
 Item | Course credit | Due date
 -- | -- | --
 [Data collection report](data-collection-report.md) (up to 10 pages plus story map) | 30% | 5pm Mon 8 March
-[Ethics essay](critical-gis-essay.md) (up to 2500 words) | 40% | 5pm Mon 26 April
-[GIS in New Zealand essay](gis-in-new-zealand-essay.md) (up to 2500 words) | 30% | 5pm Fri 6 June
+[Critical GIS essay](critical-gis-essay.md) (up to 2500 words) | 40% | 5pm Mon 26 April
+[GIS in New Zealand essay](gis-in-new-zealand-essay.md) (up to 2500 words) | 30% | 5pm Fri 4 June
 
 ## Additional information
 The primary mode of communication for the course will be via Blackboard and [Slack](https://vuwgisc2021.slack.com), so please ensure that your contact details there are up to date and are regularly checked (note that Blackboard defaults to your `myvuw.ac.nz` email address).

@@ -32,7 +32,7 @@ Time | Activity | People | Notes
 1:00 | Lunch | |
 2:00 | Research talks | | Speakers TBC
 4:00 | Afternoon tea | |
-4:30 | Critical GIS and ethics introduction | MdR, DOS |
+4:30 | Ethics and critical GIS introduction | DOS, MdR |
 5:30 | Dinner |  |Weather permitting, fish and chips on Otaki Beach
 7:30 | Informational session on Wairarapa trip including VR session | MdR |
 
