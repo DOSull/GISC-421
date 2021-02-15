@@ -40,16 +40,16 @@ Week | Date | Speaker | Notes
 -- | -- | -- | --
 0 | 17-19 Feb | Otaki field trip | [Detailed timetable](field-trip/timetable.md)
 1 | 24 Feb | No meeting
-2 | 3 Mar | Introducing 'Critical GIS' (David) |
-3 | 10 Mar | Guest (TBC) | <!--[Link to slides](guests/GIS-at-MPI-Andrew-Parnell-2020.pptx?raw=true)-->
-4 | 17 Mar | Guest (TBC) | <!--[Chris McDowall](https://fogonwater.com/)--> | <!--Author of [*We Are Here*](https://www.masseypress.ac.nz/books/we-are-here/)-->
-5 | 24 Mar | [Sydney Shep](https://www.wgtn.ac.nz/wtapress/about/staff/sydney-shep) (VUW Waiteata Press) |
-6 | 31 Mar | Guest (TBC) |
+2 | 3 Mar | Introducing 'Critical GIS' (David) | Discussion of assigned readings
+3 | 10 Mar | The power of maps (and GIS) (David) | Discussion of assigned readings
+4 | 17 Mar | No new readings | More discussion!
+5 | 24 Mar | [Ocean Mercier](https://people.wgtn.ac.nz/ocean.mercier) (VUW Māori Studies) |
+6 | 31 Mar | [Sydney Shep](https://www.wgtn.ac.nz/wtapress/about/staff/sydney-shep) (VUW Waiteata Press) |
  | | **SEMESTER BREAK** | **NO TEACHING**
 7 | 21 Apr | Guest (TBC) |
 8 | 28 Apr | Guest (TBC) | <!--[Rebecca Kiddle](https://www.wgtn.ac.nz/architecture/about/staff/rebecca-kiddle) (VUW Architecture)-->
 9 | 5 May | Guest (TBC) |
-10 | 12 May | Guest (TBC) | <!--Duane Wilkins ([LINZ](http://linz.govt.nz/))-->
+10 | 12 May | Elaine McAlister | 
 11 | 19 May | Guest (TBC) |
 12 | 26 May | Guest (TBC) |
 
