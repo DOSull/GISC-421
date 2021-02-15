@@ -1,11 +1,11 @@
 #### GISC 421 T1 2021
 # The postgraduate programme structure
 ## Postgraduate Diploma
-### _Required classes_
+### Required classes
 + **GISC 420 Geographical Computing** T1
 + **GISC 421 GIS: Applications and Impact** T1
 
-and three or four from
+and **three** or **four** from
 + **GISC 422 Spatial Analysis & Modelling** T1
 + **GISC 423 Cartography & Geovisualization** T2
 + **GISC 424 Remote Sensing** T1
@@ -33,7 +33,7 @@ You have to complete all the above programme of study, _including_ **GEOG 580** 
 #### Either
 180 point Masters in GIScience, which involves a summer ('T3') research project (**GISC 511**) or placement and research project (**GISC 512**). The timeline for either of these is *very tight*.
 #### Or
-A full year Masters by thesis. 
+A full year Masters by thesis.
 
 ## Postgraduate Certificate
 This is essentially half of the Diploma, with an emphasis in GISC classes, i.e., **GISC 420 and GISC 421** and **two** from **GISC 422-424**.
