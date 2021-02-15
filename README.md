@@ -2,11 +2,11 @@
 # GISC 421 GIS Applications and Impact
 This course provides an overview of applications of Geographic Information Science in New Zealand and internationally. Through field teaching, individual and group work, and guest lectures from industry professionals, students will gain a strong understanding of the dimensions of the geospatial industry from data collection, to storage, analysis and dissemination. Specific attention will be given to organisations’ use of and impact on GIS; ethics; and how GIS fits within organisations, the economy, communities, and its impacts on their decision making.
 
-<!--# Important!
+# Important!
 **The COVID-19 crisis means that all details are subject to change at any time. Keep close tabs on this page, and on information posted to Blackboard for changes to schedules, etc.**
 
-## Link to zoom meetings of this class
-You will find the zoom link for this class on [Blackboard](https://blackboard.vuw.ac.nz/webapps/blackboard/content/listContentEditable.jsp?course_id=_106344_1&content_id=_2641846_1&crosscoursenavrequest=true).
+## Link to recordings of this class
+Sessions of this class that take place in the Buchanan Room (Cotton 209A) will be recorded and posted to [Blackboard](https://blackboard.vuw.ac.nz/webapps/blackboard/content/launchLink.jsp?course_id=_111562_1&tool_id=_3281_1&tool_type=TOOL&mode=cpview&mode=reset).
 -->
 
 ## Important dates
@@ -43,8 +43,8 @@ Week | Date | Speaker | Notes
 2 | 3 Mar | Introducing 'Critical GIS' (David) |
 3 | 10 Mar | Guest (TBC) | <!--[Link to slides](guests/GIS-at-MPI-Andrew-Parnell-2020.pptx?raw=true)-->
 4 | 17 Mar | Guest (TBC) | <!--[Chris McDowall](https://fogonwater.com/)--> | <!--Author of [*We Are Here*](https://www.masseypress.ac.nz/books/we-are-here/)-->
-5 | 24 Mar | Guest (TBC) | <!--[Tony Moore](https://www.otago.ac.nz/surveying/people/otago040651.html) (Otago)-->
-6 | 31 Mar | Guest (TBC) | <!--[Sydney Shep](https://www.wgtn.ac.nz/wtapress/about/staff/sydney-shep) (VUW Waiteatea Press)-->
+5 | 24 Mar | [Sydney Shep](https://www.wgtn.ac.nz/wtapress/about/staff/sydney-shep) (VUW Waiteata Press) |
+6 | 31 Mar | Guest (TBC) |
  | | **SEMESTER BREAK** | **NO TEACHING**
 7 | 21 Apr | Guest (TBC) |
 8 | 28 Apr | Guest (TBC) | <!--[Rebecca Kiddle](https://www.wgtn.ac.nz/architecture/about/staff/rebecca-kiddle) (VUW Architecture)-->
