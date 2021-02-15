@@ -47,9 +47,9 @@ Week | Date | Speaker | Notes
 6 | 31 Mar | [Sydney Shep](https://www.wgtn.ac.nz/wtapress/about/staff/sydney-shep) (VUW Waiteata Press) |
  | | **SEMESTER BREAK** | **NO TEACHING**
 7 | 21 Apr | Guest (TBC) |
-8 | 28 Apr | Guest (TBC) | <!--[Rebecca Kiddle](https://www.wgtn.ac.nz/architecture/about/staff/rebecca-kiddle) (VUW Architecture)-->
-9 | 5 May | Guest (TBC) |
-10 | 12 May | Elaine McAlister | 
+8 | 28 Apr | Guest (TBC) |
+9 | 5 May | [Katie Jones](https://www.gns.cri.nz/who/staff/2380.html) (GNS) |
+10 | 12 May | [Elaine McAlister](https://www.linkedin.com/in/elaine-mcalister-75b3064/) | 'Women who know their place: diversity in the spatial industry'
 11 | 19 May | Guest (TBC) |
 12 | 26 May | Guest (TBC) |
 
