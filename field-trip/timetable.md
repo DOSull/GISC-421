@@ -49,7 +49,7 @@ Time | Activity | Notes
 12:00 | Lunch
 1:00 |
 4:30 | Student research talks
-6:00 | Dinner - fish and chip at Otaki beach
+6:00 | Dinner | Fish and chip at Otaki beach
 7:30 | **If we are at level 1** Pre-Wairarapa briefing
 
 **If we are at level 2 we will return home on Thursday.**
