@@ -45,7 +45,7 @@ Time | Activity | Notes
 --- | --- | ---
 7:00 | Breakfast |
 8:00 |
-9:00 | Openstreetmap data exercise in Otaki
+9:00 | Openstreetmap data exercise in Otaki | Or UAV exercise if we didn't do it yesterday!
 12:00 | Lunch
 1:00 |
 4:30 | Student research talks
