@@ -7,7 +7,6 @@ This course provides an overview of applications of Geographic Information Scien
 
 ## Link to recordings of this class
 Sessions of this class that take place in the Buchanan Room (Cotton 209A) will be recorded and posted to [Blackboard](https://blackboard.vuw.ac.nz/webapps/blackboard/content/launchLink.jsp?course_id=_111562_1&tool_id=_3281_1&tool_type=TOOL&mode=cpview&mode=reset).
--->
 
 ## Important dates
 
