@@ -63,9 +63,12 @@ These two articles are from a nice [theme issue of _Gender, Place and Culture_](
 ### Counter-mapping
 + Peluso NL. 1995. [Whose woods are these? counter-mapping forest territories in Kalimantan, Indonesia](https://onlinelibrary-wiley-com.helicon.vuw.ac.nz/doi/abs/10.1111/j.1467-8330.1995.tb00286.x). _Antipode_ 27(4) 383-406.
 
-And related to counter-mapping is public / participatory GIS
+And related to counter-mapping are public / participatory GIS and volunteered geographic information (VGI)
 
 + Dunn CE. 2007. [Participatory GIS a people's GIS?](https://journals-sagepub-com.helicon.vuw.ac.nz/doi/abs/10.1177/0309132507081493) _Progress in Human Geography_ 31(5) 616-637.
+
++ Stephens M. 2013. [Gender and the GeoWeb: divisions in the production of user-generated cartographic information](https://link-springer-com.helicon.vuw.ac.nz/content/pdf/10.1007/s10708-013-9492-z.pdf). _GeoJournal_ 78(6)981–996.
+
 
 ## Non-western perspectives
 + Palmer M and C Korson. 2020. [Decolonizing World Heritage Maps Using Indigenous Toponyms, Stories, and Interpretive Attributes](https://muse-jhu-edu.helicon.vuw.ac.nz/article/766917). _Cartographica: The International Journal for Geographic Information and Geovisualization_ 55(3) 183-192.
