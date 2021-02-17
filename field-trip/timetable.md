@@ -10,13 +10,13 @@ We have a number of different activities planned. Normally these would all be sc
 
 Activity | Approximate timing
 -- | :-:
-Temperature sensor deployment near [Manakau](https://www.openstreetmap.org/search?query=manakau#map=14/-40.7149/175.2165) | 2 hrs
+Temperature sensor deployment [Waikawa camp site](https://www.openstreetmap.org/way/437708776#map=16/-40.7203/175.2477) near [Manakau](https://www.openstreetmap.org/search?query=manakau#map=14/-40.7149/175.2165) | 2 hrs
 UAV exercise and associated lectures at [Waihoanga Lodge](https://www.openstreetmap.org/query?lat=-40.8252&lon=175.2070#map=17/-40.82584/175.21058) | 3.5 hrs
 Data collection for the web-mapping assignment at [Waihoanga Lodge](https://www.openstreetmap.org/query?lat=-40.8252&lon=175.2070#map=17/-40.82584/175.21058) | As time is available
 Openstreetmap data exercise in [Otaki](https://www.openstreetmap.org/node/178431340) | 2.5 hrs
 GIS ethics and privacy talk and exercise | 1.5 hrs
 Staff research talks | 3 &times; 45 min
-Student research talks | 3 &times; 20 min
+Student research talks | 3 &times; 30 min
 Trip to and around [Lake Wairarapa](https://www.openstreetmap.org/search?query=lake%20wairarapa#map=12/-41.2362/175.2377) | 1 day
 
 Note that pending an expected COVID announcement on Weds afternoon, the short version of the plan is: level 1 we do all three days, level 2 we do two days, level 3 we do one day.
@@ -28,7 +28,7 @@ Tentatively, these are currently scheduled as below.
 
 Time | Activity | Notes
 --- | --- | ---
-9:00 | Assemble **Cotton Plaza** Kelburn Campus | Introductions and overview of field trip, health and safety etc.
+9:00 | Assemble **Cotton 216** Kelburn Campus | Introductions and overview of field trip, health and safety etc.
 10:00 | Depart from Campus
 11:30 | Temperature sensor deployment and lunch |
 1:30 | Arrive at Waihōanga Lodge | It shouldn't take long to unpack!
