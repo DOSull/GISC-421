@@ -1,6 +1,6 @@
 #### GISC 421 T1 2021
 # Data collection report
-**due 5pm, Monday 8 March** submit your report to the dropbox provided on Blackboard.
+**due 5pm, Monday 15 March** submit your report to the dropbox provided on Blackboard.
 
 This report comprises three sections, described below.
 
@@ -9,7 +9,7 @@ This activity asks you to reflect on the design and implementation of a scientif
 ### Suggested outline
 Details to follow.
 Hypothesis being tested ([this](https://en.wikipedia.org/wiki/Lapse_rate#Environmental_lapse_rate) might be useful background)
-+ Brief description of the sensor setup ([these data](field-trip/sensors.geojson) may be helpful; note an additional sensor was place at the lodge)
++ Brief description of the sensor setup. Here is a [dataset](sensor-data/pts.geojson) of the sensor locations compiled from my crappy phone, which failed to geolocate two of them. Here's the [R code I used](sensor-data/process-photos.R) to make that dataset. ([these data](field-trip/sensors.geojson) may be helpful; note an additional sensor was place at the lodge)
 + Factors influencing data collection
 + How the experiment accounts for these factors (if at all)
 + Brief discussion and analysis of results, including a plot. Links to the datasets from the sensors will be added here when they become available

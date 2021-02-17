@@ -57,7 +57,7 @@ There are three course assessments, with details linked in the table below. Asll
 
 Item | Course credit | Due date
 -- | -- | --
-[Data collection report](data-collection-report.md) (up to 10 pages plus story map) | 30% | 5pm Mon 8 March
+[Data collection report](data-collection-report.md) (up to 10 pages plus story map) | 30% | 5pm Mon 15 March
 [Critical GIS essay](critical-gis-essay.md) (up to 2500 words) | 40% | 5pm Mon 26 April
 [GIS in New Zealand essay](gis-in-new-zealand-essay.md) (up to 2500 words) | 30% | 5pm Fri 4 June
 
