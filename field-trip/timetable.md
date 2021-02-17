@@ -19,10 +19,6 @@ Staff research talks | 3 &times; 45 min
 Student research talks | 3 &times; 30 min
 Trip to and around [Lake Wairarapa](https://www.openstreetmap.org/search?query=lake%20wairarapa#map=12/-41.2362/175.2377) | 1 day
 
-Note that pending an expected COVID announcement on Weds afternoon, the short version of the plan is: level 1 we do all three days, level 2 we do two days, level 3 we do one day.
-
-Tentatively, these are currently scheduled as below.
-
 ## Very tentative schedule
 ### Wednesday, 17 February 2021
 
@@ -36,22 +32,20 @@ Time | Activity | Notes
 5:30 | Ethics and privacy |
 6:30 | Dinner | Takeaway - Indian or Chinese, probably!
 
-**If we are at level 3 we will return home on Wednesday.**
-
 ### Thursday, 18 February 2021
 
 Time | Activity | Notes
 --- | --- | ---
 7:00 | Breakfast |
-8:00 | Story map data collection
-8:30 | Preparation for OSM exercise
+8:00 | Preparation for OSM exercise
+8:30 | Story map data collection
 9:00 | Openstreetmap data exercise in Otaki | Or UAV exercise if we didn't do it yesterday!
 12:00 | Lunch
 1:00 | Research talks
 3:30 | Break / Story map data collection
 4:30 | Student research talks
 5:30 | Dinner | Fish and chips at Otaki beach
-7:30 | **If we are at level 1** Pre-Wairarapa briefing
+7:30 | Pre-Wairarapa briefing
 
 ### Friday, 19 February 2021
 
