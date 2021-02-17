@@ -10,11 +10,11 @@ This activity asks you to reflect on the design and implementation of a scientif
 Details to follow.
 Hypothesis being tested ([this](https://en.wikipedia.org/wiki/Lapse_rate#Environmental_lapse_rate) might be useful background)
 + Brief description of the sensor deployment.
-+ Here is a [dataset](sensor-data/pts.geojson) of the sensor locations compiled from my crappy phone, which failed to geolocate two of them. Here's the [R code I used](sensor-data/process-photos.R) to make that dataset.
++ Here is a [dataset](sensor-data/pts.geojson) of the sensor locations compiled from my crappy phone, which failed to geolocate two of them. Here's the [R code I used](sensor-data/process-photos.R) to make that dataset.Gee
 + Factors influencing data collection
 + How the experiment accounts for these factors (if at all)
-+ Brief discussion and analysis of results, including a plot. Links to the datasets from the sensors will be added here when they become available
-
++ Brief discussion and analysis of results, including a plot.
++ Here are the sensor data time series in a [zip file](sensor-time-traces.zip?raw=true) 
 Some additional things to consider
 + How important is the detail of sensor micro-location, e.g. closeness to ground, sun vs shade, etc.
 + Based on the data how sensitive are the sensors in terms of precision in measuring a temperature?
