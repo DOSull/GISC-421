@@ -39,23 +39,21 @@ Time | Activity | Notes
 **If we are at level 3 we will return home on Wednesday.**
 
 ### Thursday, 18 February 2021
-**If we are at alert level 2 or below**
 
 Time | Activity | Notes
 --- | --- | ---
 7:00 | Breakfast |
-8:00 |
+8:00 | Story map data collection
+8:30 | Preparation for OSM exercise
 9:00 | Openstreetmap data exercise in Otaki | Or UAV exercise if we didn't do it yesterday!
 12:00 | Lunch
-1:00 |
+1:00 | Research talks
+3:30 | Break / Story map data collection
 4:30 | Student research talks
-6:00 | Dinner | Fish and chip at Otaki beach
+5:30 | Dinner | Fish and chips at Otaki beach
 7:30 | **If we are at level 1** Pre-Wairarapa briefing
 
-**If we are at level 2 we will return home on Thursday.**
-
 ### Friday, 19 February 2021
-**If we are at alert level 1**
 
 Time | Activity | Notes
 --- | --- | ---
