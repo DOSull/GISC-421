@@ -2,8 +2,10 @@
 # GISC 421 GIS Applications and Impact
 This course provides an overview of applications of Geographic Information Science in New Zealand and internationally. Through field teaching, individual and group work, and guest lectures from industry professionals, students will gain a strong understanding of the dimensions of the geospatial industry from data collection, to storage, analysis and dissemination. Specific attention will be given to organisations’ use of and impact on GIS; ethics; and how GIS fits within organisations, the economy, communities, and its impacts on their decision making.
 
-# Important!
-**The COVID-19 crisis means that all details are subject to change at any time. Keep close tabs on this page, and on information posted to Blackboard for changes to schedules, etc.**
+## COVID Alert level changes
+If COVID alert levels change, the class will continue as follows:
++ **Level 1** Class as normal. Attendance in person preferred and strongly encouraged. Lecture recordings will be available on Blackboard.
++ **Level 2**, **Level 3** or **Level 4** Class will be conducted solely over zoom with recordings available later for review.
 
 ## Link to recordings of this class
 Sessions of this class that take place in the Buchanan Room (Cotton 209A) will be recorded and posted to [Blackboard](https://blackboard.vuw.ac.nz/webapps/blackboard/content/launchLink.jsp?course_id=_111562_1&tool_id=_3281_1&tool_type=TOOL&mode=cpview&mode=reset).
@@ -15,7 +17,7 @@ Item | Dates
 Trimester | 22 February to 19 June 2021
 Teaching period | 22 February to 28 May 2021
 Mid-trimester break | 5 April to 16 April 2021
-Last assessment item due | **TBD**
+Last assessment item due | 4 June 2021
 Study period | NA
 Examination period | NA
 Withdrawal dates | See [Course additions and withdrawals](www.victoria.ac.nz/home/admisenrol/payments/withdrawalsrefunds)
