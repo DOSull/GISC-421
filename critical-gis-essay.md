@@ -3,7 +3,7 @@
 **due 5pm, Monday 26 April** submit to the dropbox provided on Blackboard.
 
 An essay of one of the following three topics:
-1. What does ethics have to do with GIS? In answering this question consider two examples where ethical considerations might exert an important influence on a project.
+1. What does ethics have to do with GIS? In answering this question consider two examples where ethical considerations might exert an important influence on a project. [Only one of the examples may relate to privacy.]
 2. Explain what you understand by the term 'critical GIS'. Why do you consider it important that geospatial professionals take the ideas underpinning critical GIS seriously?
 3. The 'power of maps' is widely acknowledged. How does this concept apply to GIS and other geospatial platforms?
 4. Can GIS adapt to account for non-Western knowledge and ways of representing the world (if so then how, and if not then why not)?
