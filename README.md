@@ -29,7 +29,7 @@ The schedule for the course will be posted here, along with links to lecture mat
 ## Contact details
 ### Lecturer/coordinator
 **Prof. [David O'Sullivan](mailto:david.osullivan@vuw.ac.nz)**
-**Office** CO227 **Extn.** 6492 **Office hours preferably by appointment** [click here](http://calendly.com/dosullivan) but direct message me on [the Slack](https://vuwgisc2020.slack.com) and we can arrange contact. My office phone is not a good way to reach me.
+**Office** CO227 **Extn.** 6492 **Office hours preferably by appointment** [click here](http://calendly.com/dosullivan) but direct message me on [the Slack](https://vuwgisc2021.slack.com) and we can arrange contact. My office phone is not a good way to reach me.
 
 ## Field trip 17-19 Feb
 An outline of the three day (two night) residential field trip is posted [here](field-trip/README.md), along with the [timetable](field-trip/timetable.md) (not yet finalised).

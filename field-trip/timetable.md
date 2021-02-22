@@ -29,7 +29,7 @@ Time | Activity | Notes
 11:30 | Temperature sensor deployment and lunch |
 1:30 | Arrive at Waihōanga Lodge | It shouldn't take long to unpack!
 2:00 | UAV exercise | Weather permitting!
-5:30 | Ethics and privacy |
+5:30 | Ethics and privacy | [David's lecture on privacy](https://southosullivan.com/gisc421/)
 6:30 | Dinner | Takeaway - Indian or Chinese, probably!
 
 ### Thursday, 18 February 2021
