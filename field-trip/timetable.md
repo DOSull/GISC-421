@@ -43,7 +43,7 @@ Time | Activity | Notes
 12:00 | Lunch
 1:00 | Research talks | Mairéad's research<br />[David's research](https://southosullivan.com/gisc421/DavidsResearch/)
 3:30 | Break / Story map data collection
-4:30 | Student research talks | Allan Schori on noise and early childhood learning<br />Megan Davidson on maps for the visually impaired
+4:30 | Student research talks | [Allan Schori on noise and early childhood centres](../guests/AllanPresentation.pdf)<br />Megan Davidson on maps for the visually impaired
 5:30 | Dinner | Fish and chips at Otaki beach
 7:30 | Pre-Wairarapa briefing
 
