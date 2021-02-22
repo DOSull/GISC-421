@@ -28,8 +28,8 @@ Time | Activity | Notes
 10:00 | Depart from Campus
 11:30 | Temperature sensor deployment and lunch |
 1:30 | Arrive at Waihōanga Lodge | It shouldn't take long to unpack!
-2:00 | UAV exercise | Weather permitting!
-5:30 | Ethics and privacy | [David's lecture on privacy](https://southosullivan.com/gisc421/)
+2:00 | UAV exercise | Andrew's presentation slides (to follow)
+5:30 | Ethics and privacy | [David's lecture on privacy](https://southosullivan.com/gisc421/EthicalConsiderations/)
 6:30 | Dinner | Takeaway - Indian or Chinese, probably!
 
 ### Thursday, 18 February 2021
@@ -41,9 +41,9 @@ Time | Activity | Notes
 8:30 | Story map data collection
 9:00 | Openstreetmap data exercise in Otaki | Or UAV exercise if we didn't do it yesterday!
 12:00 | Lunch
-1:00 | Research talks
+1:00 | Research talks | Mairéad's research<br />[David's research](https://southosullivan.com/gisc421/DavidsResearch/)
 3:30 | Break / Story map data collection
-4:30 | Student research talks
+4:30 | Student research talks | Allan Schori on noise and early childhood learning<br />Megan Davidson on maps for the visually impaired
 5:30 | Dinner | Fish and chips at Otaki beach
 7:30 | Pre-Wairarapa briefing
 
