@@ -37,13 +37,15 @@ This is a nice introduction, although annoyingly the e-version has almost no fig
 
 + Crampton JW. 2010. [_Mapping: a critical introduction to cartography and GIS_](https://ebookcentral-proquest-com.helicon.vuw.ac.nz/lib/vuw/detail.action?pq-origsite=primo&amp;docID=4433111). Malden, Mass: Wiley-Blackwell.
 
-+ Elwood S and MW Wilson. 2017. [Critical GIS pedagogies beyond 'Week 10: Ethics'](https://www-tandfonline-com.helicon.vuw.ac.nz/doi/full/10.1080/13658816.2017.1334892). _International Journal of Geographical Information Science_ 31(10) 2098-2116.
+Other readings worth getting to grips with include (we will discuss the two **bolded** ones in class.)
+
++ **Elwood S and MW Wilson. 2017. [Critical GIS pedagogies beyond 'Week 10: Ethics'](https://www-tandfonline-com.helicon.vuw.ac.nz/doi/full/10.1080/13658816.2017.1334892). _International Journal of Geographical Information Science_ 31(10) 2098-2116.**
 
 + McHaffie P. 2002. [Towards the Automated Map Factory: Early Automation at the U.S. Geological Survey](https://www-tandfonline-com.helicon.vuw.ac.nz/doi/abs/10.1559/152304002782008521). _Cartography and Geographic Information Science_ 29(3) 193-206.
 
 + Pavlovskaya M. 2018, [Critical GIS as a tool for social transformation](https://onlinelibrary-wiley-com.helicon.vuw.ac.nz/doi/full/10.1111/cag.12438). _The Canadian Geographer / Le Géographe canadien_ 62(1) 40-54.
 
-+ O'Sullivan D. 2006. [Geographical information science: critical GIS](https://journals-sagepub-com.helicon.vuw.ac.nz/doi/abs/10.1177/0309132506071528). _Progress in Human Geography_ 30(6) 783-791.
++ **O'Sullivan D. 2006. [Geographical information science: critical GIS](https://journals-sagepub-com.helicon.vuw.ac.nz/doi/abs/10.1177/0309132506071528). _Progress in Human Geography_ 30(6) 783-791.**
 
 + Schuurman N. 2000. [Trouble in the heartland: GIS and its critics in the 1990s](https://journals-sagepub-com.helicon.vuw.ac.nz/doi/abs/10.1191/030913200100189111). _Progress in Human Geography_ 24(4) 569-590.
 
