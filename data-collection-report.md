@@ -25,7 +25,7 @@ Some additional things to consider
 
 ## UAV report (30% of data report)
 ### Suggested outline
-Consult Andrew's slide presentation (link to be added) for details.
+Consult [Andrew's slide presentation](guests/GISC421_RPAS-EXERCISE_at_Waihoanga_17-2-2021.pdf) for details.
 
 For now, here is the [LIDAR point cloud](point-cloud/waihoanga.laz?raw=true).
 

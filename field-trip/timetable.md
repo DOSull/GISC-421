@@ -28,7 +28,7 @@ Time | Activity | Notes
 10:00 | Depart from Campus
 11:30 | Temperature sensor deployment and lunch |
 1:30 | Arrive at Waihōanga Lodge | It shouldn't take long to unpack!
-2:00 | UAV exercise | [Andrew's presentation slides](https://github.com/DOSull/GISC-421/blob/master/guests/guests/GISC421_RPAS-EXERCISE_at_Waihoanga_17-2-2021.pdf))
+2:00 | UAV exercise | [Andrew's presentation slides](https://github.com/DOSull/GISC-421/blob/master/guests/GISC421_RPAS-EXERCISE_at_Waihoanga_17-2-2021.pdf)
 5:30 | Ethics and privacy | [David's lecture on privacy](https://southosullivan.com/gisc421/EthicalConsiderations/)
 6:30 | Dinner | Takeaway - Indian or Chinese, probably!
 
