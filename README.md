@@ -47,11 +47,11 @@ Week | Date | Speaker | Notes
 5 | 24 Mar | [Ocean Mercier](https://people.wgtn.ac.nz/ocean.mercier) (VUW Māori Studies) |
 6 | 31 Mar | [Sydney Shep](https://www.wgtn.ac.nz/wtapress/about/staff/sydney-shep) (VUW Waiteata Press) |
  | | **SEMESTER BREAK** | **NO TEACHING**
-7 | 21 Apr | Guest (TBC) |
+7 | 21 Apr | [Duane Wilkins](https://www.geo.kiwi/) | [LINZ](https://www.linz.govt.nz/)
 8 | 28 Apr | Guest (TBC) |
-9 | 5 May | [Katie Jones](https://www.gns.cri.nz/who/staff/2380.html) (GNS) |
+9 | 5 May | [Katie Jones](https://www.gns.cri.nz/who/staff/2380.html) | [GNS](https://www.gns.cri.nz/)
 10 | 12 May | [Elaine McAlister](https://www.linkedin.com/in/elaine-mcalister-75b3064/) | 'Women who know their place: diversity in the spatial industry'
-11 | 19 May | Guest (TBC) |
+11 | 19 May | Jake Hanson | [Ministry for Primary Industries](https://mpi.maps.arcgis.com/home/index.html)  
 12 | 26 May | Guest (TBC) |
 
 ## Assessment Details

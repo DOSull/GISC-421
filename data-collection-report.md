@@ -7,8 +7,7 @@ This report comprises three sections, described below.
 ## Sensor report (30% of data report)
 This activity asks you to reflect on the design and implementation of a scientific experiment using temperature data loggers, considering external factors that could influence data collection, and accounting for these factors.  
 ### Suggested outline
-Details to follow.
-Hypothesis being tested ([this](https://en.wikipedia.org/wiki/Lapse_rate#Environmental_lapse_rate) might be useful background)
++ Hypothesis being tested ([this](https://en.wikipedia.org/wiki/Lapse_rate#Environmental_lapse_rate) might be useful background)
 + Brief description of the sensor deployment.
 + Here is a [dataset](sensor-data/pts.geojson) of the sensor locations compiled from my crappy phone, which failed to geolocate two of them. Here's the [R code I used](sensor-data/process-photos.R) to make that dataset.Gee
 + Factors influencing data collection
