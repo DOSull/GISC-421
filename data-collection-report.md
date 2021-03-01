@@ -13,7 +13,7 @@ This activity asks you to reflect on the design and implementation of a scientif
 + Factors influencing data collection
 + How the experiment accounts for these factors (if at all)
 + Brief discussion and analysis of results, including a plot.
-+ Here are the sensor data time series in a [zip file](sensor-data/<></>sensor-time-traces.zip?raw=true)
++ Here are the sensor data time series in a [zip file](sensor-data/sensor-time-traces.zip?raw=true)
 Some additional things to consider
 + How important is the detail of sensor micro-location, e.g. closeness to ground, sun vs shade, etc.
 + Based on the data how sensitive are the sensors in terms of precision in measuring a temperature?
