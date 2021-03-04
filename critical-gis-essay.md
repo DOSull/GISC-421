@@ -58,9 +58,9 @@ These two articles are from a nice [theme issue of _Gender, Place and Culture_](
 ## The power of maps (and GIS)
 + Crampton JW. 2001. [Maps as social constructions: power, communication and visualization](https://journals-sagepub-com.helicon.vuw.ac.nz/doi/abs/10.1191/030913201678580494). _Progress in Human Geography_ 25(2) 235-252.
 
-+ Harris LM. 2015. [Deconstructing the Map after 25 Years: Furthering Engagements with Social Theory](https://muse-jhu-edu.helicon.vuw.ac.nz/article/577436/pdf). _Cartographica: The International Journal for Geographic Information and Geovisualization_ 50(1) 50-53.
++ **Harris LM. 2015. [Deconstructing the Map after 25 Years: Furthering Engagements with Social Theory](https://muse-jhu-edu.helicon.vuw.ac.nz/article/577436/pdf). _Cartographica: The International Journal for Geographic Information and Geovisualization_ 50(1) 50-53.**
 
-+ Thatcher JE. 2018. [Cartography and Power](http://gistbok.ucgis.org/bok-topics/cartography-and-power). _Geographic Information Science &amp; Technology Body of Knowledge_.
++ **Thatcher JE. 2018. [Cartography and Power](http://gistbok.ucgis.org/bok-topics/cartography-and-power). _Geographic Information Science &amp; Technology Body of Knowledge_.**
 
 ### Counter-mapping
 + Peluso NL. 1995. [Whose woods are these? counter-mapping forest territories in Kalimantan, Indonesia](https://onlinelibrary-wiley-com.helicon.vuw.ac.nz/doi/abs/10.1111/j.1467-8330.1995.tb00286.x). _Antipode_ 27(4) 383-406.
