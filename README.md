@@ -41,8 +41,8 @@ Week | Date | Speaker | Notes
 -- | -- | -- | --
 0 | 17-19 Feb | Otaki field trip | [Detailed timetable](field-trip/timetable.md)
 1 | 24 Feb | No meeting
-2 | 3 Mar | [Introducing 'Critical GIS'](critical-gis-essay.md#critical-gis) (David) | Discussion of assigned readings
-3 | 10 Mar | [The power of maps (and GIS)](critical-gis-essay.md#the-power-of-maps-and-gis) (David) | Discussion of assigned readings
+2 | 3 Mar | [Introducing 'Critical GIS'](critical-gis-essay.md#critical-gis) (David)<br />[Video](https://blackboard.vuw.ac.nz/webapps/blackboard/content/listContentEditable.jsp?content_id=_3013288_1&course_id=_111562_1) | Discussion of assigned readings
+3 | 10 Mar | [The power of maps (and GIS)](critical-gis-essay.md#the-power-of-maps-and-gis) (David)<br />[Audio](https://southosullivan.com/gisc421/videos/GISC-421-03-2021-power-of-maps.mp3) | Discussion of assigned readings
 4 | 17 Mar | [Counter-mapping](critical-gis-essay.md#counter-mapping) and [indigenous perspectives](critical-gis-essay.md#non-western-perspectives) (David) | Discussion of assigned readings
 5 | 24 Mar | [Ocean Mercier](https://people.wgtn.ac.nz/ocean.mercier) (VUW Māori Studies) |
 6 | 31 Mar | [Sydney Shep](https://www.wgtn.ac.nz/wtapress/about/staff/sydney-shep) (VUW Waiteata Press) |
