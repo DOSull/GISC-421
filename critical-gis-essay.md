@@ -63,7 +63,7 @@ These two articles are from a nice [theme issue of _Gender, Place and Culture_](
 + **Thatcher JE. 2018. [Cartography and Power](http://gistbok.ucgis.org/bok-topics/cartography-and-power). _Geographic Information Science &amp; Technology Body of Knowledge_.**
 
 ### Counter-mapping
-+ Peluso NL. 1995. [Whose woods are these? counter-mapping forest territories in Kalimantan, Indonesia](https://onlinelibrary-wiley-com.helicon.vuw.ac.nz/doi/abs/10.1111/j.1467-8330.1995.tb00286.x). _Antipode_ 27(4) 383-406.
++ **Peluso NL. 1995. [Whose woods are these? counter-mapping forest territories in Kalimantan, Indonesia](https://onlinelibrary-wiley-com.helicon.vuw.ac.nz/doi/abs/10.1111/j.1467-8330.1995.tb00286.x). _Antipode_ 27(4) 383-406.**
 
 And related to counter-mapping are public / participatory GIS and volunteered geographic information (VGI)
 
@@ -73,9 +73,11 @@ And related to counter-mapping are public / participatory GIS and volunteered ge
 
 
 ## Non-western perspectives
-+ Palmer M and C Korson. 2020. [Decolonizing World Heritage Maps Using Indigenous Toponyms, Stories, and Interpretive Attributes](https://muse-jhu-edu.helicon.vuw.ac.nz/article/766917). _Cartographica: The International Journal for Geographic Information and Geovisualization_ 55(3) 183-192.
++ **Eckstein L and A Schwarz. 2019. [The Making of Tupaia’s Map: A Story of the Extent and Mastery of Polynesian Navigation, Competing Systems of Wayfinding on James Cook’s Endeavour, and the Invention of an Ingenious Cartographic System](https://www.tandfonline.com/doi/pdf/10.1080/00223344.2018.1512369?needAccess=true). _The Journal of Pacific History_ 54 (1):1–95.**
 
 + Hermann MJ and MW Pearce. 2010. ["They would not take me there" People, places, and stories from Champlain's travels in Canada, 1603-1616](https://cartographicperspectives.org/index.php/journal/article/view/cp66-hermann-pearce/158). _Cartographic Perspectives_ 66 41-46.
+
++ Palmer M and C Korson. 2020. [Decolonizing World Heritage Maps Using Indigenous Toponyms, Stories, and Interpretive Attributes](https://muse-jhu-edu.helicon.vuw.ac.nz/article/766917). _Cartographica: The International Journal for Geographic Information and Geovisualization_ 55(3) 183-192.
 
 + Walter M, T Kukutai, SR Carroll and D Rodriguez-Lonebear. 2020. [_Indigenous Data Sovereignty and Policy_](https://www.taylorfrancis.com/books/9781000214208) eds. M Walter, T Kukutai, SR Carroll, and D Rodriguez-Lonebear. Abingdon, Oxon; New York, NY: Routledge, 2021.
 
