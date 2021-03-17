@@ -44,7 +44,7 @@ Week | Date | Speaker | Notes
 2 | 3 Mar | [Introducing 'Critical GIS'](critical-gis-essay.md#critical-gis) (David)<br />[Video](https://blackboard.vuw.ac.nz/webapps/blackboard/content/listContentEditable.jsp?content_id=_3013288_1&course_id=_111562_1) | Discussion of assigned readings
 3 | 10 Mar | [The power of maps (and GIS)](critical-gis-essay.md#the-power-of-maps-and-gis) (David)<br />[Audio](https://southosullivan.com/gisc421/videos/GISC-421-03-2021-power-of-maps.mp3) | Discussion of assigned readings
 4 | 17 Mar | [Counter-mapping](critical-gis-essay.md#counter-mapping) and [indigenous perspectives](critical-gis-essay.md#non-western-perspectives) (David) | Discussion of assigned readings
-5 | 24 Mar | [Ocean Mercier](https://people.wgtn.ac.nz/ocean.mercier) (VUW Māori Studies) |
+5 | 24 Mar | [Ocean Mercier](https://people.wgtn.ac.nz/ocean.mercier) (VUW Māori Studies) | [Ocean's chapter in _Imagining Decolonisation_](http://imaginingdecolonisation.bwb.co.nz/chapter2.html#Chapter2)
 6 | 31 Mar | [Sydney Shep](https://www.wgtn.ac.nz/wtapress/about/staff/sydney-shep) (VUW Waiteata Press) |
  | | **SEMESTER BREAK** | **NO TEACHING**
 7 | 21 Apr | [Duane Wilkins](https://www.geo.kiwi/) | [LINZ](https://www.linz.govt.nz/)

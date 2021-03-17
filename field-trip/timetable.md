@@ -45,7 +45,7 @@ Time | Activity | Notes
 3:30 | Break / Story map data collection
 4:30 | Student research talks | [Allan Schori on noise and early childhood centres](https://github.com/DOSull/GISC-421/blob/master/guests/Allan%20Presentation.pdf)<br />Megan Davidson on maps for the visually impaired
 5:30 | Dinner | Fish and chips at Otaki beach
-7:30 | Pre-Wairarapa briefing
+7:30 | Pre-Wairarapa briefing<br />[Ben Powley's talk](https://github.com/DOSull/GISC-421/blob/master/guests/BenPowleyPresentationFrames.pdf)
 
 ### Friday, 19 February 2021
 
