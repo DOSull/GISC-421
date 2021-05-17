@@ -45,14 +45,14 @@ Week | Date | Speaker | Notes
 3 | 10 Mar | [The power of maps (and GIS)](critical-gis-essay.md#the-power-of-maps-and-gis) (David) - [Audio](https://southosullivan.com/gisc421/videos/GISC-421-03-2021-power-of-maps.mp3) | Discussion of assigned readings
 4 | 17 Mar | [Counter-mapping](critical-gis-essay.md#counter-mapping) and [indigenous perspectives](critical-gis-essay.md#non-western-perspectives) (David) - [Audio](https://southosullivan.com/gisc421/videos/GISC-421-04-2021-tupaia-and-counter-mapping.mp3) | Discussion of assigned readings
 5 | 24 Mar | [Ocean Mercier](https://people.wgtn.ac.nz/ocean.mercier) (VUW Māori Studies) | [Ocean's chapter in _Imagining Decolonisation_](http://imaginingdecolonisation.bwb.co.nz/chapter2.html#Chapter2)<br />[Materials from the session on Blackboard](https://blackboard.vuw.ac.nz/webapps/blackboard/content/listContentEditable.jsp?content_id=_3028794_1&course_id=_111562_1)
-6 | 31 Mar | [Sydney Shep](https://www.wgtn.ac.nz/wtapress/about/staff/sydney-shep) (VUW Waiteata Press) |
+6 | 31 Mar | [Sydney Shep](https://www.wgtn.ac.nz/wtapress/about/staff/sydney-shep) (VUW Waiteata Press) | Video unavailable (sound failed to record)
  | | **SEMESTER BREAK** | **NO TEACHING**
 7 | 21 Apr | [Duane Wilkins](https://www.geo.kiwi/) | [LINZ](https://www.linz.govt.nz/)
 8 | 28 Apr | Mairéad De Roiste (VUW) | Course feedback
-9 | 5 May | [Katie Jones](https://www.gns.cri.nz/who/staff/2380.html) | [GNS](https://www.gns.cri.nz/)
-10 | 12 May | [Elaine McAlister](https://www.linkedin.com/in/elaine-mcalister-75b3064/) | 'Women who know their place: diversity in the spatial industry'
+9 | 5 May | [Katie Jones](https://www.gns.cri.nz/who/staff/2380.html) | [GNS](https://www.gns.cri.nz/) | [Katie's presentation video](https://vstream.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=721fce23-d75f-4f01-a91c-accf01712314)
+10 | 12 May | [Elaine McAlister](https://www.linkedin.com/in/elaine-mcalister-75b3064/) | ['Women who know their place: diversity in the spatial industry'](https://vstream.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d4cc544-a80c-4157-924c-accf01712332)<br>[WIS on LinkedIn](https://www.linkedin.com/groups/4057396 )<br>[WIS blog](https://womeninspatial.wordpress.com/)
 11 | 19 May | Jake Hanson | [Ministry for Primary Industries](https://mpi.maps.arcgis.com/home/index.html)  
-12 | 26 May | Guest (TBC) |
+12 | 26 May | No meeting |
 
 ## Assessment Details
 There are three course assessments, with details linked in the table below. Asll assignments should be submitted to the dropboxes provided on Blackboard.
