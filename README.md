@@ -51,7 +51,7 @@ Week | Date | Speaker | Notes
 8 | 28 Apr | Mairéad De Roiste (VUW) | Course feedback
 9 | 5 May | [Katie Jones](https://www.gns.cri.nz/who/staff/2380.html) | [GNS](https://www.gns.cri.nz/) | [Katie's presentation video](https://vstream.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=721fce23-d75f-4f01-a91c-accf01712314)
 10 | 12 May | [Elaine McAlister](https://www.linkedin.com/in/elaine-mcalister-75b3064/) | ['Women who know their place: diversity in the spatial industry'](https://vstream.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d4cc544-a80c-4157-924c-accf01712332)<br>[WIS on LinkedIn](https://www.linkedin.com/groups/4057396 )<br>[WIS blog](https://womeninspatial.wordpress.com/)
-11 | 19 May | Jake Hanson | [Ministry for Primary Industries](https://mpi.maps.arcgis.com/home/index.html)  
+11 | 19 May | Jake Hanson &amp; Cullum Pene-Wesche | [Ministry for Primary Industries](https://mpi.maps.arcgis.com/home/index.html)<br>[Video](https://vstream.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de34ac34-b7e7-4f26-a057-accf0171234f)  
 12 | 26 May | No meeting |
 
 ## Assessment Details
